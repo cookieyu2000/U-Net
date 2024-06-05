@@ -1,0 +1,9 @@
+data/images
+data/trimaps
+data/annotations
+# Ignore all __pycache__ directories
+**/__pycache__/
+*.tar.gz
+/weights
+HW3.docx
+HW3.pdf
